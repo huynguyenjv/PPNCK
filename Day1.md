@@ -1,4 +1,4 @@
-# PHƯƠNG PHÁP NGHIÊN CỨU KHAO HỌC 
+# PHƯƠNG PHÁP NGHIÊN CỨU KHOA HỌC 
 
 ## Bài tập tình huống 
   **Tìm một chủ đề nghiên cứu cho luận văn thạc sĩ - xây dựng outline**
@@ -53,3 +53,16 @@
    - Tổng hợp kết quả định lượng
    - Dùng thống kê để rút ra kết luận chung
    ==> Rất học thuật, khó, thường cho y sinh - xã hội
+### Literature review metrix 
+ **Key components of a literature review matrix**
+  1. Source information
+     Author(s): Names of the authors
+     Year of publication: When the study was published
+     Title : Title of the article or study
+     Journal/publisher: where the study was published
+  2. Research question/ objective
+  3. Methodology
+  4. Key findings
+  5. Theoretical framework
+  6. Strengths and limitations
+  7. Relevance to your research
